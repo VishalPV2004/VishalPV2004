@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHAL</h1>
 <h3 align="center">A passionate digital VLSI aspirant, I love to explore digital design and model the same using HDLs.</h3>
-![bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2](https://github.com/VishalPV2004/VishalPV2004/assets/125368625/62e2c9ea-f056-40d4-bb41-eff0a055d7b2)
+![bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2](https://github.com/VishalPV2004/VishalPV2004/assets/125368625/a0c01f13-f5fb-4c07-95f6-6ef76ac5fce7)
 
 
 - 🌱 I’m currently learning **Digital design, System verilog**
